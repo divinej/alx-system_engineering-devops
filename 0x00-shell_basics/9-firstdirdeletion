@@ -1,2 +1,2 @@
 #!/bin/bash
-mmdir /tmp/my_first_directory
+mmdir -r /tmp/my_first_directory
